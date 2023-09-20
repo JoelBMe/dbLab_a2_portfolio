@@ -22,3 +22,8 @@
 .topNav a.sign {
     float: right;
 }
+
+.topNav a.activeSign {
+    background-color: red;
+    float: right;
+}
